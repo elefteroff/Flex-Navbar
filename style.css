@@ -1,0 +1,49 @@
+.nav {
+    background-color: rgb(58, 55, 55);
+    display: flex;
+    padding: 12px;
+}
+
+span {
+    font-weight: lighter;
+    font-family: serif;
+    margin-right: 400px;
+    font-size: xx-large; 
+}
+
+.nav-title {
+    color: white;
+    text-align:left;
+    font-size: x-large;
+}
+
+.nav-links {
+    color: white;
+    display: flex;
+    padding: 2px;
+    font-family: sans-serif;
+}
+
+.boldlink {
+    color: white;
+    padding: 4px;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: x-small;
+    margin-left: 20px;
+}
+
+.active {
+    color: white;
+    margin-left: 20px;
+    padding: 4px;
+    font-size: x-small;
+    text-decoration: none;
+}
+
+.btn {
+    background-color: rgb(84, 187, 203);
+    color: white;
+    border: 20px black;
+    margin-left: 5px;
+}
